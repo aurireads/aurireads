@@ -1,4 +1,5 @@
-### Olá! Eu sou a Mariane e sou programadora júnior. As tecnologias que mais estudo são Angular, Java e React. 
+### Olá! Eu sou a Mariane e sou programadora júnior. 
+💻 As tecnologias que mais estudo são Angular, Java e React. 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurireads&layout=compact&langs_count=7&theme=material-palenight"/>
