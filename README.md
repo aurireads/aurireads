@@ -1,4 +1,4 @@
-### Olá! Eu sou a Mariane e sou programadora júnior. 
+### Olá! Eu sou a Mariane e estudo programação e trabalho como DevOps. 
 💻 As tecnologias que mais estudo são Angular, Java e React. 
 
 <div align="center">
